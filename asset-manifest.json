@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SubhasishSarkar/React-in-github/static/css/main.1a938e32.chunk.css",
-    "main.js": "/SubhasishSarkar/React-in-github/static/js/main.82d1680a.chunk.js",
-    "main.js.map": "/SubhasishSarkar/React-in-github/static/js/main.82d1680a.chunk.js.map",
-    "runtime-main.js": "/SubhasishSarkar/React-in-github/static/js/runtime-main.90f67c0a.js",
-    "runtime-main.js.map": "/SubhasishSarkar/React-in-github/static/js/runtime-main.90f67c0a.js.map",
-    "static/js/2.6fa9e62f.chunk.js": "/SubhasishSarkar/React-in-github/static/js/2.6fa9e62f.chunk.js",
-    "static/js/2.6fa9e62f.chunk.js.map": "/SubhasishSarkar/React-in-github/static/js/2.6fa9e62f.chunk.js.map",
-    "index.html": "/SubhasishSarkar/React-in-github/index.html",
-    "precache-manifest.6e14ce162383d4692263952bce642078.js": "/SubhasishSarkar/React-in-github/precache-manifest.6e14ce162383d4692263952bce642078.js",
-    "service-worker.js": "/SubhasishSarkar/React-in-github/service-worker.js",
-    "static/css/main.1a938e32.chunk.css.map": "/SubhasishSarkar/React-in-github/static/css/main.1a938e32.chunk.css.map",
-    "static/js/2.6fa9e62f.chunk.js.LICENSE.txt": "/SubhasishSarkar/React-in-github/static/js/2.6fa9e62f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/SubhasishSarkar/React-in-github/static/media/logo.5d5d9eef.svg"
+    "main.css": "/React-in-github/static/css/main.1a938e32.chunk.css",
+    "main.js": "/React-in-github/static/js/main.660789f9.chunk.js",
+    "main.js.map": "/React-in-github/static/js/main.660789f9.chunk.js.map",
+    "runtime-main.js": "/React-in-github/static/js/runtime-main.0951d767.js",
+    "runtime-main.js.map": "/React-in-github/static/js/runtime-main.0951d767.js.map",
+    "static/js/2.6fa9e62f.chunk.js": "/React-in-github/static/js/2.6fa9e62f.chunk.js",
+    "static/js/2.6fa9e62f.chunk.js.map": "/React-in-github/static/js/2.6fa9e62f.chunk.js.map",
+    "index.html": "/React-in-github/index.html",
+    "precache-manifest.f1173807c7cf4254d6e4166ed6bf83ab.js": "/React-in-github/precache-manifest.f1173807c7cf4254d6e4166ed6bf83ab.js",
+    "service-worker.js": "/React-in-github/service-worker.js",
+    "static/css/main.1a938e32.chunk.css.map": "/React-in-github/static/css/main.1a938e32.chunk.css.map",
+    "static/js/2.6fa9e62f.chunk.js.LICENSE.txt": "/React-in-github/static/js/2.6fa9e62f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-in-github/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90f67c0a.js",
+    "static/js/runtime-main.0951d767.js",
     "static/js/2.6fa9e62f.chunk.js",
     "static/css/main.1a938e32.chunk.css",
-    "static/js/main.82d1680a.chunk.js"
+    "static/js/main.660789f9.chunk.js"
   ]
 }
